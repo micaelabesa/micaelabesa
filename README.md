@@ -22,7 +22,7 @@ Soy una **Desarrolladora Full Stack** peeero también he pasado por **Arquitectu
 
 ### 📊 Mis Estadísticas
 
-![Micaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=micaelabesa&show_icons=true&theme=tokyonight)
+![Estadísticas de Micaela](https://github-stats-alpha.vercel.app/api?username=micaelabesa&cc=000&tc=fff&ic=f00&bc=000)
 
 ---
 
