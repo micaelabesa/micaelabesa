@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Hola! Soy Micaela Besasso.
+# Hola! Soy Micaela Besasso.
 
 > "No solo escribo código, proyecto soluciones sostenibles."
 
@@ -21,9 +21,9 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
                                 ```
                                 2015-2017           2021          2021-Hoy          2023-Hoy
-                                    🏢             ✈️              🏖️                💻
+                                    🏢              ✈️             🏖️                💻
                                 Arquitectura     Migración       Hostelería         Software
-                                                ARG → ESP       Formentera         Systems
+                                                 ARG → ESP       Formentera         Systems
                                 ```
 
 <div align="center">
@@ -58,7 +58,7 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 **Sistema de gestión hotelera con UX sostenible**
 
                                 ```
-                                Stack:    Angular • TypeScript • MongoDB • Backend APIs
+                                Stack:    Angular • TypeScript • MySQL • Backend APIs
                                 Filosofía: Sostenibilidad técnica • UX/UI • Performance
                                 Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
                                 ```
@@ -98,7 +98,11 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
 ### 📊 Mis Estadísticas
 
+<div align="center">
+
 ![Estadísticas de Micaela](https://github-stats-alpha.vercel.app/api?username=micaelabesa&cc=000&tc=fff&ic=f00&bc=000)
+
+</div>
 
 ## 🔗 Conecta Conmigo
 
