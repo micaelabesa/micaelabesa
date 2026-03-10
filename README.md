@@ -1,9 +1,11 @@
 ![Banner](portada.png)
 
+<div align="center">
 # Hola! Soy Micaela Besasso.
 
 > "No solo escribo código, proyecto soluciones sostenibles."
 
+</div>
 Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque en **sostenibilidad técnica** y estructuras limpias. Tres años en arquitectura me enseñaron a proyectar; el código me enseñó a construir.
 
 ---
@@ -16,11 +18,12 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
 ## 🌍 Mi Travesía
 
+<div align="center">
 ```
-                         2015-2017          2021          2021-Hoy          2023-Hoy
-                            🏢              ✈️              🏖️                💻
-                        Arquitectura     Migración       Hostelería         Software
-                                         ARG → ESP       Formentera         Systems
+2015-2017           2021          2021-Hoy          2023-Hoy
+     🏢             ✈️              🏖️                💻
+Arquitectura     Migración       Hostelería         Software
+                 ARG → ESP       Formentera         Systems
 ```
 
 **La arquitectura me enseñó a pensar en SISTEMAS.**
@@ -29,7 +32,7 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
 **El software me enseñó a CONSTRUIR.**
 
----
+## </div>
 
 ## ⭐ Proyectos Destacados
 
@@ -37,30 +40,32 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
 **Sistema de diseño + Proyectos interactivos**
 
-                        ```
-                        Stack:    Angular 19 • TypeScript • Signals • Vercel
-                        Filosofía: Branding personal • Design System • Responsive
-                        Focus:    Coherencia visual • Arquitectura clara • UX limpia
-                        ```
+<div align="center">
+```
+Stack:    Angular 19 • TypeScript • Signals • Vercel
+Filosofía: Branding personal • Design System • Responsive
+Focus:    Coherencia visual • Arquitectura clara • UX limpia
+```
 
 🔗 [Ver en vivo](https://portfolio-mica.vercel.app)  
 📦 [Repo](https://github.com/micaelabesa/PortfolioMica)
 
----
+## </div>
 
 ### 🏨 UpgradeFood Proyecto Final
 
 **Sistema de gestión hotelera con UX sostenible**
 
-                        ```
-                        Stack:    Angular • TypeScript • MongoDB • Backend APIs
-                        Filosofía: Sostenibilidad técnica • UX/UI • Performance
-                        Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
-                        ```
+<div align="center">
+ ```
+Stack:    Angular • TypeScript • MongoDB • Backend APIs
+Filosofía: Sostenibilidad técnica • UX/UI • Performance
+Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
+```
 
 🔗 [Ver en vivo](https://upgradefood.web.app)
 
----
+## </div>
 
 ### 🛠️ Tech Stack
 
@@ -95,16 +100,6 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
 ![Estadísticas de Micaela](https://github-stats-alpha.vercel.app/api?username=micaelabesa&cc=000&tc=fff&ic=f00&bc=000)
 
----
-
-### 📫 ¡Construyamos algo juntos!
-
-- **LinkedIn:** [linkedin.com/in/micaela-besasso/](https://linkedin.com/in/micaela-besasso/)
-- **Email:** [micaela.besasso@hotmail.com](mailto:micaela.besasso@hotmail.com)
-- **Idiomas:** Español (Nativo), Italiano (C1), Inglés (B2)
-
----
-
 ## 🔗 Conecta Conmigo
 
 <div align="center">
@@ -114,6 +109,13 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 | 🌐 **Portfolio** |       [portfolio-mica.vercel.app](https://portfolio-mica.vercel.app)       |
 | 💼 **LinkedIn**  | [linkedin.com/in/micaela-besasso](https://linkedin.com/in/micaela-besasso) |
 |   📧 **Email**   |     [micaela.besasso@hotmail.com](mailto:micaela.besasso@hotmail.com)      |
+
+---
+
+- **Idiomas:**
+  Español (Nativo), Italiano (C1), Inglés (B2)
+
+---
 
 </div>
 
