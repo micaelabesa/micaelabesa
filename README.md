@@ -1,7 +1,8 @@
 ![Banner](portada.png)
 
 <div align="center">
-# Hola! Soy Micaela Besasso.
+
+### Hola! Soy Micaela Besasso.
 
 > "No solo escribo código, proyecto soluciones sostenibles."
 
@@ -10,7 +11,7 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
 ---
 
-### 🚀 ¿Por qué hago esto?
+## 🚀 ¿Por qué hago esto?
 
 - 🔭 No es solo código. Es **resolver problemas reales** con herramientas que duran. Cada línea es un pequeño acto de responsabilidad con quien la usa. Aprendí que **la tecnología es un servicio al ser humano**, no al revés.
 
@@ -18,13 +19,14 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
 ## 🌍 Mi Travesía
 
+                                ```
+                                2015-2017           2021          2021-Hoy          2023-Hoy
+                                    🏢             ✈️              🏖️                💻
+                                Arquitectura     Migración       Hostelería         Software
+                                                ARG → ESP       Formentera         Systems
+                                ```
+
 <div align="center">
-```
-2015-2017           2021          2021-Hoy          2023-Hoy
-     🏢             ✈️              🏖️                💻
-Arquitectura     Migración       Hostelería         Software
-                 ARG → ESP       Formentera         Systems
-```
 
 **La arquitectura me enseñó a pensar en SISTEMAS.**
 
@@ -40,32 +42,30 @@ Arquitectura     Migración       Hostelería         Software
 
 **Sistema de diseño + Proyectos interactivos**
 
-<div align="center">
-```
-Stack:    Angular 19 • TypeScript • Signals • Vercel
-Filosofía: Branding personal • Design System • Responsive
-Focus:    Coherencia visual • Arquitectura clara • UX limpia
-```
+                                ```
+                                Stack:    Angular 19 • TypeScript • Signals • Vercel
+                                Filosofía: Branding personal • Design System • Responsive
+                                Focus:    Coherencia visual • Arquitectura clara • UX limpia
+                                ```
 
 🔗 [Ver en vivo](https://portfolio-mica.vercel.app)  
 📦 [Repo](https://github.com/micaelabesa/PortfolioMica)
 
-## </div>
+##
 
 ### 🏨 UpgradeFood Proyecto Final
 
 **Sistema de gestión hotelera con UX sostenible**
 
-<div align="center">
- ```
-Stack:    Angular • TypeScript • MongoDB • Backend APIs
-Filosofía: Sostenibilidad técnica • UX/UI • Performance
-Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
-```
+                                ```
+                                Stack:    Angular • TypeScript • MongoDB • Backend APIs
+                                Filosofía: Sostenibilidad técnica • UX/UI • Performance
+                                Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
+                                ```
 
 🔗 [Ver en vivo](https://upgradefood.web.app)
 
-## </div>
+##
 
 ### 🛠️ Tech Stack
 
