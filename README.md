@@ -10,21 +10,23 @@ Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque e
 
 ### 🚀 ¿Por qué hago esto?
 
-- 🔭 No es solo código. Es **resolver problemas reales** con herramientas que duran. Cada línea es un pequeño acto de responsabilidad con quien la usa. Aprendí que _la tecnología es un servicio al ser humano_, no al revés.
+- 🔭 No es solo código. Es **resolver problemas reales** con herramientas que duran. Cada línea es un pequeño acto de responsabilidad con quien la usa. Aprendí que **la tecnología es un servicio al ser humano**, no al revés.
 
 ---
 
 ## 🌍 Mi Travesía
 
 ```
-2015-2017     2019-2021          2021-2023        2023-Hoy
-   🏢           🌳                 🏖️               💻
-Arquitectura  Migración       Hostelería      Software
-            ARG → España      Formentera      Systems
+                         2015-2017          2021          2021-Hoy          2023-Hoy
+                            🏢              ✈️              🏖️                💻
+                        Arquitectura     Migración       Hostelería         Software
+                                         ARG → ESP       Formentera         Systems
 ```
 
 **La arquitectura me enseñó a pensar en SISTEMAS.**
+
 **La hostelería me enseñó EMPATÍA.**
+
 **El software me enseñó a CONSTRUIR.**
 
 ---
@@ -35,11 +37,11 @@ Arquitectura  Migración       Hostelería      Software
 
 **Sistema de diseño + Proyectos interactivos**
 
-```
-Stack:    Angular 19 • TypeScript • Signals • Vercel
-Filosofía: Branding personal • Design System • Responsive
-Focus:    Coherencia visual • Arquitectura clara • UX limpia
-```
+                        ```
+                        Stack:    Angular 19 • TypeScript • Signals • Vercel
+                        Filosofía: Branding personal • Design System • Responsive
+                        Focus:    Coherencia visual • Arquitectura clara • UX limpia
+                        ```
 
 🔗 [Ver en vivo](https://portfolio-mica.vercel.app)  
 📦 [Repo](https://github.com/micaelabesa/PortfolioMica)
@@ -50,11 +52,11 @@ Focus:    Coherencia visual • Arquitectura clara • UX limpia
 
 **Sistema de gestión hotelera con UX sostenible**
 
-```
-Stack:    Angular • TypeScript • MongoDB • Backend APIs
-Filosofía: Sostenibilidad técnica • UX/UI • Performance
-Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
-```
+                        ```
+                        Stack:    Angular • TypeScript • MongoDB • Backend APIs
+                        Filosofía: Sostenibilidad técnica • UX/UI • Performance
+                        Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
+                        ```
 
 🔗 [Ver en vivo](https://upgradefood.web.app)
 
@@ -69,7 +71,6 @@ Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
 ![Angular](https://img.shields.io/badge/Angular-19-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Signals](https://img.shields.io/badge/Signals-Reactive-6B8E6F?style=flat-square)
-![RxJS](https://img.shields.io/badge/RxJS-7-B7178C?style=flat-square&logo=reactivex&logoColor=white)
 
 ### Backend
 
