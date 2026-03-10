@@ -4,9 +4,10 @@
 
 # Hola! Soy Micaela Besasso.
 
-> "No solo escribo código, proyecto soluciones sostenibles."
+"No solo escribo código, proyecto soluciones sostenibles."
 
 </div>
+
 Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque en **sostenibilidad técnica** y estructuras limpias. Tres años en arquitectura me enseñaron a proyectar; el código me enseñó a construir.
 
 ---
