@@ -1,24 +1,94 @@
 ![Banner](portada.png)
 
-# 🏗️ Blueprint of a Developer: Hola! Soy Micaela Besasso
+# Hola! Soy Micaela Besasso.
 
-> "En la arquitectura, como en el código, si los cimientos no son sólidos, la estética no tiene propósito."
+> "No solo escribo código, proyecto soluciones sostenibles."
 
-Soy una **Desarrolladora Full Stack** peeero también he pasado por **Arquitectura**. Mi camino me llevó desde diseñar espacios físicos en Buenos Aires hasta descubrir mi pasión en Formentera: **construir estructuras digitales**.
+Soy una **Desarrolladora Full Stack**. Diseño productos digitales con enfoque en **sostenibilidad técnica** y estructuras limpias. Tres años en arquitectura me enseñaron a proyectar; el código me enseñó a construir.
+
+---
+
+### 🚀 ¿Por qué hago esto?
+
+- 🔭 No es solo código. Es **resolver problemas reales** con herramientas que duran. Cada línea es un pequeño acto de responsabilidad con quien la usa. Aprendí que _la tecnología es un servicio al ser humano_, no al revés.
 
 ---
 
-### 🚀 ¿En qué estoy trabajando?
+## 🌍 Mi Travesía
 
-- 🔭 **Proyecto Destacado:** **UpgradeFood**, una plataforma con lógica de backend optimizada para la gestión de asignaciones.
-- 🌱 **Perfeccionando:** Gestión de estado y reactividad con **Signals** en Angular.
-- ⚡ **Mi enfoque:** Código limpio, escalable y una experiencia de usuario (UX) impecable forjada en el sector hospitality.
+```
+2015-2017     2019-2021          2021-2023        2023-Hoy
+   🏢           🌳                 🏖️               💻
+Arquitectura  Migración       Hostelería      Software
+            ARG → España      Formentera      Systems
+```
 
-### 🛠️ Tecnologías y Herramientas
-
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**La arquitectura me enseñó a pensar en SISTEMAS.**
+**La hostelería me enseñó EMPATÍA.**
+**El software me enseñó a CONSTRUIR.**
 
 ---
+
+## ⭐ Proyectos Destacados
+
+### 🎯 Portfolio Personal
+
+**Sistema de diseño + Proyectos interactivos**
+
+```
+Stack:    Angular 19 • TypeScript • Signals • Vercel
+Filosofía: Branding personal • Design System • Responsive
+Focus:    Coherencia visual • Arquitectura clara • UX limpia
+```
+
+🔗 [Ver en vivo](https://portfolio-mica.vercel.app)  
+📦 [Repo](https://github.com/micaelabesa/PortfolioMica)
+
+---
+
+### 🏨 UpgradeFood Proyecto Final
+
+**Sistema de gestión hotelera con UX sostenible**
+
+```
+Stack:    Angular • TypeScript • MongoDB • Backend APIs
+Filosofía: Sostenibilidad técnica • UX/UI • Performance
+Focus:    Reservas inteligentes • Experiencia usuario • Escalabilidad
+```
+
+🔗 [Ver en vivo](https://upgradefood.web.app)
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+![Angular](https://img.shields.io/badge/Angular-19-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Signals](https://img.shields.io/badge/Signals-Reactive-6B8E6F?style=flat-square)
+![RxJS](https://img.shields.io/badge/RxJS-7-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-LTS-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Database & Tools
+
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=flat-square&logo=vercel&logoColor=white)
+
+### Approach
+
+![Clean Code](https://img.shields.io/badge/Clean-Code-6B8E6F?style=flat-square&color=6B8E6F)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-6B8E6F?style=flat-square&color=6B8E6F)
+![Sustainable](https://img.shields.io/badge/Sustainable-Tech-F0DDE0?style=flat-square&color=F0DDE0)
+
+## </div>
 
 ### 📊 Mis Estadísticas
 
@@ -31,3 +101,19 @@ Soy una **Desarrolladora Full Stack** peeero también he pasado por **Arquitectu
 - **LinkedIn:** [linkedin.com/in/micaela-besasso/](https://linkedin.com/in/micaela-besasso/)
 - **Email:** [micaela.besasso@hotmail.com](mailto:micaela.besasso@hotmail.com)
 - **Idiomas:** Español (Nativo), Italiano (C1), Inglés (B2)
+
+---
+
+## 🔗 Conecta Conmigo
+
+<div align="center">
+
+|    Plataforma    |                                    Link                                    |
+| :--------------: | :------------------------------------------------------------------------: |
+| 🌐 **Portfolio** |       [portfolio-mica.vercel.app](https://portfolio-mica.vercel.app)       |
+| 💼 **LinkedIn**  | [linkedin.com/in/micaela-besasso](https://linkedin.com/in/micaela-besasso) |
+|   📧 **Email**   |     [micaela.besasso@hotmail.com](mailto:micaela.besasso@hotmail.com)      |
+
+</div>
+
+---
